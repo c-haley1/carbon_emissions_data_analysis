@@ -1,4 +1,3 @@
-# ==============================================================================
 # Carbon Emissions Analysis of Commercial Office Buildings
 # Prepared for the Kansas City Office of Sustainability
 # Author: Colin Haley
@@ -8,13 +7,9 @@
 #      associated with carbon emissions?
 #   2. Is an energy retrofit an effective way to reduce emissions when
 #      compared with other building characteristics?
-# ==============================================================================
 
-# ------------------------------------------------------------------------------
-# 0. Setup
-# ------------------------------------------------------------------------------
 
-# install.packages("readxl")  # uncomment if not already installed
+# install.packages("readxl")  
 library(readxl)
 
 # Update this path to point to your local copy of the data file
